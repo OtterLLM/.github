@@ -1,10 +1,12 @@
 # OtterLLM
 
+**English** | [简体中文](https://github.com/OtterLLM/.github/blob/main/profile/README.zh-CN.md)
+
 Field notes, open atlases, and systems research on **small-model & sparse MoE pretraining** — spanning model architecture, data recipes, multimodal training, and Huawei Ascend 910C systems engineering.
 
 ## Public Projects
 
-- **[otter-handbook](https://github.com/OtterLLM/otter-handbook)** — 小模型训练手册 (*Field notes on training small models*). First-hand pretraining observations and literature syntheses organized from tokenizer to deployment.
+- **[otter-handbook](https://github.com/OtterLLM/otter-handbook)** — *Field notes on training small models*. First-hand pretraining observations and literature syntheses organized from tokenizer to deployment.
   - Read online: <https://otterllm.github.io/otter-handbook/>
 - **[moe-config-atlas](https://github.com/OtterLLM/moe-config-atlas)** — Open-source MoE architecture & sparsity fingerprint atlas tracking deduplicated 2025–2026 MoE releases across scale tiers.
   - Explore online: <https://otterllm.github.io/moe-config-atlas/>
